@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jainanant4567qa
-- 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Selenium with TestNG Framework development
+- I am an SDET by profession.
+- 👀 I’m interested in Test Automation.
+- 🌱 I’m currently working on practising my core java skills.
 - 💞️ I’m looking to collaborate on Test Automation Framework development for free lance projects
 - 📫 How to reach me > Email : jain.anant4567@gmail.com
 
